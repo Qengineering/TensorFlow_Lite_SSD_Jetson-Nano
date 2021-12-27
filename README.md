@@ -43,4 +43,8 @@ You may need to adapt the specified library locations in *TestTensorFlow_Lite.cp
 With the `#define GPU_DELEGATE` uncommented, the TensorFlow Lite will deploy GPU delegates, if you have, of course, the appropriate libraries compiled by bazel. [Install GPU delegates](https://qengineering.eu/install-tensorflow-2-lite-on-jetson-nano.html) <br/><br/>
 See the RPi 4 movie at: https://vimeo.com/393889226
 
+------------
+
+[![paypal](https://qengineering.eu/images/TipJarSmall4.png)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=CPZTM5BB3FCYL) 
+
 
